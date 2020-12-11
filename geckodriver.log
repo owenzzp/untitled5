@@ -1,0 +1,35 @@
+1607704440275	geckodriver	INFO	Listening on 127.0.0.1:49391
+1607704443329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MI\\AppData\\Local\\Temp\\rust_mozprofileDHsRik"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704447782	Marionette	INFO	Listening on port 49401
+1607704448243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607704453104	Marionette	INFO	Stopped listening on port 49401
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607704454145	geckodriver	INFO	Listening on 127.0.0.1:49499
+1607704457157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MI\\AppData\\Local\\Temp\\rust_mozprofilegdIZHH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607704459725	Marionette	INFO	Listening on port 49508
+1607704459819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.huihui.cn/deals/channel.json?callback=discountCallback, line 1: SyntaxError: expected expression, got '<'
+1607704468317	Marionette	INFO	Stopped listening on port 49508
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
