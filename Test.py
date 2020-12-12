@@ -4,6 +4,8 @@ Created on 2016-7-26
 @author: Jennifer
 Project:编写Web测试用例
 '''
+import sys,os
+sys.path.append("/root/dingdian/dingdian/")
 import unittest
 from HTMLTestRunner import HTMLTestRunner
 import Testbaidu
@@ -24,3 +26,5 @@ if __name__=='__main__':
     )
     # runner = unittest.TextTestRunner()
     runner.run(suite)
+
+
